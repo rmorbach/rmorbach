@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning how to improve mobile apps using best practices of software such as clean code and clean architecture.
 
-- 📫 How to reach me: add me on [Linke(In)] (https://www.linkedin.com/in/rodrigo-morbach-44a9b24a/) or throught e-mail [mailto](mailto:morbachrodrigo@gmail.com).
+- 📫 How to reach me: add me on [LinkedIn](https://www.linkedin.com/in/rodrigo-morbach-44a9b24a/) or throught e-mail [mailto](mailto:morbachrodrigo@gmail.com).
 
 - 👯 I’m looking to collaborate on: best practices on software architecture applied to mobile apps development. Consulting on how to improve and organize app development for small / medium size teams.
 
